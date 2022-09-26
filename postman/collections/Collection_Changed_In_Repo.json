@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "09e4cb85-b36b-4261-b894-60b1621217cf",
-		"name": "New Collection",
+		"name": "Collection_Changed_In_Repo",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "3096-09e4cb85-b36b-4261-b894-60b1621217cf"
 	},
@@ -13,7 +13,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": ""
