@@ -28,6 +28,29 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "17ca7651-e90c-43a7-b038-788c25439c78",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://postman-echo.com/post",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"post"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
