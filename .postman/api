@@ -1,4 +1,4 @@
-id = 47a5d9ff-9d98-4f7e-901d-84955ea7600c
+id = 436ca366-8b67-4e38-b402-018033ea8d8f
 
 [relations]
 
@@ -10,6 +10,7 @@ files[] = {"id":"3096-cf576286-b777-43e0-ba8c-48a9f18e1307","path":"V10 Collecti
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index Copy.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
