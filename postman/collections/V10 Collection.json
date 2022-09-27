@@ -51,6 +51,29 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b4d584d1-6188-4adb-ae8c-ac03266cc0d3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://postman-echo.com/put",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"put"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
